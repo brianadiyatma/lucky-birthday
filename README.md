@@ -1,6 +1,6 @@
 # Untuk Istriku, Lucky ♡
 
-Kartu ucapan ulang tahun ke-24 untuk **Lucky Dafa Oktaria**, dari suami untuk istri tercinta dan ibu dari anak-anak mereka. Bernuansa dreamy lavender, dibuka dari amplop dan dibaca lembar demi lembar. HTML, CSS, dan JavaScript statis; tidak memerlukan build, framework, atau backend.
+Kartu ucapan ulang tahun ke-24 untuk **Lucky Dafa Oktaria**, dari suami untuk istri tercinta dan calon ibu dari anak-anak mereka kelak. Bernuansa dreamy lavender, dibuka dari amplop dan dibaca lembar demi lembar. HTML, CSS, dan JavaScript statis; tidak memerlukan build, framework, atau backend.
 
 ## Pratinjau lokal
 
@@ -31,7 +31,7 @@ Referensi: [Dokumentasi resmi konfigurasi GitHub Pages](https://docs.github.com/
 - Navigasi berikutnya/kembali dan titik halaman, dengan transisi membalik lembar.
 - Foto berdua bergaya polaroid serta album 13 foto yang bisa digeser atau diganti melalui tombol panah.
 - Foto dapat diperbesar; navigasi tombol, panah keyboard, swipe HP, dan Escape untuk menutup.
-- Surat pribadi dalam bahasa Indonesia, berisi kasih sayang, rasa syukur, dan doa untuk istri serta ibu dari anak-anak.
+- Surat pribadi dalam bahasa Indonesia, berisi kasih sayang, rasa syukur, dan doa untuk istri serta calon ibu dari anak-anak di masa depan.
 - Ilustrasi kue dengan lilin 24, tombol tiup, konfeti, dan nyalakan ulang.
 - 24 doa untuk Lucky dan keluarga yang dapat dibaca bergantian.
 - Bintang dan hati melayang, polaroid bergerak lembut, api lilin berkedip, dan konfeti berbentuk hati.

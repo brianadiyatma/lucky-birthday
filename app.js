@@ -17,7 +17,7 @@ const photos = [
 ];
 
 const wishes = [
-  'Semoga kamu selalu sehat dan punya banyak waktu bahagia bersama aku dan anak-anak kita.',
+  'Semoga kita selalu sehat untuk menikmati hari-hari bersama dan menyambut anak-anak kita kelak.',
   'Semoga tubuhmu sehat, hatimu tenang, dan harimu terasa lebih ringan.',
   'Semoga mimpi yang kamu simpan diam-diam menemukan jalannya untuk jadi nyata.',
   'Semoga rumah kita selalu menjadi tempat yang hangat dan nyaman untukmu pulang.',
@@ -28,7 +28,7 @@ const wishes = [
   'Semoga cinta kita terus tumbuh, dalam saling mendengar, menjaga, dan memahami.',
   'Semoga ada kabar baik yang datang di saat kamu paling membutuhkannya.',
   'Semoga kamu lebih sering merayakan langkahmu, sekecil apa pun itu.',
-  'Semoga tawa anak-anak dan obrolan hangat kita membuat tahun ini penuh kenangan indah.',
+  'Semoga suatu hari rumah kita diramaikan tawa anak-anak yang kita besarkan dengan penuh cinta.',
   'Semoga kamu menemukan ruang untuk tumbuh tanpa harus terburu-buru.',
   'Semoga ada lagu, buku, atau perjalanan yang membuatmu jatuh cinta lagi pada hidup.',
   'Semoga rezekimu cukup, berkah, dan memberi ruang untuk berbagi kebahagiaan.',
@@ -38,9 +38,9 @@ const wishes = [
   'Semoga kamu tidak lupa bahwa dirimu berharga, bahkan saat sedang merasa biasa saja.',
   'Semoga meja makanmu penuh cerita hangat dan makanan favorit.',
   'Semoga kamu bisa berdamai dengan yang lalu dan menyambut yang baru dengan lapang.',
-  'Semoga di tengah kesibukan menjadi istri dan ibu, kamu tetap punya waktu untuk dirimu sendiri.',
+  'Semoga dalam perjalanan kita, termasuk saat kelak menjadi ibu, kamu tetap punya waktu untuk dirimu sendiri.',
   'Semoga versi dirimu hari ini bangga melihat sejauh apa kamu sudah melangkah.',
-  'Semoga kita diberi banyak tahun lagi untuk saling mencintai dan melihat anak-anak kita tumbuh. Selamat 24 tahun, sayang. ♡',
+  'Semoga kita diberi banyak tahun untuk saling mencintai dan, kelak, melihat anak-anak kita tumbuh. Selamat 24 tahun, sayang. ♡',
 ];
 
 const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
@@ -236,7 +236,7 @@ wishButton.addEventListener('click', () => {
   document.querySelector('#cake-scene').classList.add('blown');
   wishButton.disabled = true;
   wishButton.textContent = 'Semoga doamu dikabulkan ♡';
-  document.querySelector('#wish-status').textContent = 'Selamat 24 tahun, istriku. Kamu begitu berarti bagi kami.';
+  document.querySelector('#wish-status').textContent = 'Selamat 24 tahun, istriku. Kamu begitu berarti bagiku.';
   document.querySelector('#family-note').hidden = false;
   relightButton.hidden = false;
   relightButton.focus({ preventScroll: true });
